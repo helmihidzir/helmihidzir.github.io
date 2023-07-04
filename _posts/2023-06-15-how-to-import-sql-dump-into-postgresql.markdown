@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "How to import SQL dump into PostgreSQL?"
+title:  "How to import SQL dump into PostgreSQL"
 date:   2023-06-15 22:00:00 +0800
 categories: PostgreSQL
 ---
 Make sure to have database first before dumping the data. If you don't have database, create one inside `psql` with:
 
 ```sql
-postgres=# CREATE DATABASE database_name;
+CREATE DATABASE database_name;
 ```
 
 To import sql dump into PostgreSQL:
 {% highlight shell %}
-$ psql -h hostname -d databasename -U username -f file.sql
+psql -h hostname -d databasename -U username -f file.sql
 {% endhighlight %}
 
 <br>
