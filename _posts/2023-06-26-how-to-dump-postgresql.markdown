@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to dump PostgreSQL?"
+title:  "How to dump PostgreSQL"
 date:   2023-06-26 09:09:00 +0800
 categories: PostgreSQL
 ---
