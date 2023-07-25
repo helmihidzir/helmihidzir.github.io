@@ -30,13 +30,12 @@ linkedin_username: helmi-hidzir-680499152
 github_username:  helmihidzir
 
 # Build settings
-#theme: minima
-remote_theme: jekyll/minima
+theme: minima
+#remote_theme: jekyll/minima
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
 
-google_analytics: G-LDN21ZDZ8J
+#google_analytics: G-LDN21ZDZ8J
 
 # Exclude from processing.
 # The following items will not be processed, by default.
