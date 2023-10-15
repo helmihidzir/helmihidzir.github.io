@@ -14,9 +14,14 @@ Image == Class
 <br/>
 Object == Container
 
+**Docker**
+<br/>
+A software to bundled together environment needed to run an application
+<br/>
+
 **Dockerfile**
 <br/>
-Is use to define how image
+Is use to define what and how application needed
 <br/>
 
 **Image**
